@@ -20,3 +20,4 @@ Thumbs.db
 # IDE/editor files
 .vscode/
 .idea/
+remote add origin https://github.com/Vishal9569/crud_api.git
